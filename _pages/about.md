@@ -17,7 +17,7 @@ About Me
 * M.S. in Computational Mathematics, Beijing Normal University, 2016
   - Adivisor: [Prof. Jiequan Li](http://math0.bnu.edu.cn/~lijiequan/publication_en.html)
   - Thesis: On the Radial Symmetric Solutions to Conservation Laws
-* Ph.D in Mathematics, Purdue University, 2021 (expected)
+* Ph.D. in Mathematics, Purdue University, 2021 (expected)
   * Adivisor: [Prof. Changyou Wang](https://www.math.purdue.edu/~wang2482/)
 
 ------
